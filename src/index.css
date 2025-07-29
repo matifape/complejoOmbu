@@ -1,0 +1,53 @@
+@import "tailwindcss";
+
+
+
+@font-face {
+  font-family: 'primary';
+  src: url(./assets/fonts/Bulgatti.otf);
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+
+
+
+
+:root{
+  --font-color: #ffe28a;
+  --bg-color: #666547;
+  --bg-prueba: #e3e3de;
+  --font-primary: 'primary', sans-serif;
+  --font-second: 'secondary', sans-serif;
+  --verde-bosque: #2f5233;
+  --verde-musgo: #374427;
+  --marron-madera: #8c5e3c;
+  --marron-oscuro: #512607;
+  --beige: #e6dcc6;
+  --crema: #f5f3ee;
+}
+
+
+
+html,body{
+  background-color: var(--crema);
+  scroll-behavior: smooth;
+  overflow-x: hidden;
+}
+
+h1,h2{
+  font-family: var(--font-primary);
+}
+
+h4{
+   font-family: "Playfair Display", serif;
+}
+
+
+
+
+
+p,h3{ 
+   font-family: "Lato", sans-serif;
+}
