@@ -60,7 +60,7 @@ function PruebaHeader() {
           <WhatsAppButton className="text-2xl block md:hidden" number= "5492252485824" />
 
           {/* Enlaces (solo en escritorio) */}
-          <nav className="hidden md:flex gap-6 text-xl ">
+          <nav className="hidden md:flex gap-6 text-l ">
             <a href="#mainContent">Inicio</a>
             <a href="#instalaciones">Instalaciones</a>
             <a href="#about">Nosotros</a>

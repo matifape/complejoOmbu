@@ -13,7 +13,7 @@ const WhatsAppButton = ({ number ="5492252485824", message, text , className = "
       className={` ${className}`}
       
     >
-      <FaWhatsapp className="text-3xl"/>
+      <FaWhatsapp className="text-2xl"/>
       {text}
     </a>
   );
