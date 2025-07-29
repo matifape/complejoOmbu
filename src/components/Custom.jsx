@@ -39,7 +39,7 @@ const Custom = ({
     >
       {title && (
         <div
-          className={`flex items-center mx-auto my-2  text-2xl md:text-l text-white font-semibold md:mb-20 uppercase ${titleClass}`}
+          className={`flex items-center mx-auto my-2  text-2xl md:text-l text-white font-normal md:mb-20 uppercase ${titleClass}`}
         >
           <h3>
             {title}
