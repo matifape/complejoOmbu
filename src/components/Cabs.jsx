@@ -6,7 +6,8 @@ import {
   Cab3,
   Depto12,
   Depto34,
-  cab12Text
+  cab12Text,
+  deptoText
 } from "/constants/datas.js";
 
 import React from 'react'
@@ -60,7 +61,7 @@ const Cabs = () => {
   h3class=""
   pclass="whitespace-pre-line"
   reverse={true} 
-  textInfo={cab12Text}
+  textInfo={deptoText}
 />
       <Custom
   images={Depto34}
@@ -71,7 +72,7 @@ const Cabs = () => {
   titleClass=""
   h3class=""
   pclass="whitespace-pre-line"
-  textInfo={cab12Text}
+  textInfo={deptoText}
 />
     </>
       

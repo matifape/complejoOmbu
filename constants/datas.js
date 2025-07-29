@@ -231,11 +231,24 @@ Solo puede permanecer en el complejo las personas que han alquilado`
 
 
 const cab12Text = `
-- Capacidad: 4 personas \n
+- Capacidad: 6 personas \n
 - Heladera con freezer, TV por cable, ventiladores de pie \n
 - Vajilla completa \n
-- Parrila \n
-- Frazafas \n
+- Parrilla \n
+- Frazadas \n
+- WIFI \n
+- Entrada de auto \n
+
+- recordar traer toallas y sabanas.
+` 
+
+
+const  deptoText =  `
+- Capacidad: 6 personas \n
+- Heladera con freezer, TV por cable, ventiladores de pie \n
+- Vajilla completa \n
+- Parrilla \n
+- Frazadas \n
 - WIFI \n
 - Entrada de auto \n
 
@@ -267,4 +280,4 @@ Las familias que nos vienen a visitar buscan paz y tranquilidad.
 Solo puede permanecer en el complejo las personas que han alquilado por ende no pueden recibir visitas de esas que se quedan a cenar, dormir, bañarse,etc.`
 
 
-export { Links, Images, Cab1, Cab2, Cab3, Depto12, Depto34, textoAbout,cab12Text,textoCompleto, serviciosImg,ServiciosText };
+export { Links, Images, Cab1, Cab2, Cab3, Depto12, Depto34, textoAbout,cab12Text,textoCompleto, serviciosImg,ServiciosText, deptoText };

@@ -1,7 +1,7 @@
 import { FaWhatsapp } from "react-icons/fa6";
 
 
-const WhatsAppButton = ({ number ="5492252485824", message, text , className = "" }) => {
+const WhatsAppButton = ({ number ="5492257525638", message, text , className = "" }) => {
   const formattedMessage = encodeURIComponent(message);
   const whatsappLink = `https://wa.me/${number}?text=${formattedMessage}`;
 
