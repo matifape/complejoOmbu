@@ -1,6 +1,6 @@
 import Custom from "./Custom";
 import {
-  Images,
+  
   Cab1,
   Cab2,
   Cab3,
@@ -10,7 +10,7 @@ import {
   deptoText,
 } from "/constants/datas.js";
 
-import React from "react";
+
 
 const Cabs = () => {
   return (
@@ -28,23 +28,16 @@ const Cabs = () => {
         reverse={true}
         textInfo={cab12Text}
       />
-      <Custom
-        images={Cab3}
-        title="Cabaña 3"
-       
-        textInfo={cab12Text}
-      />
+      <Custom images={Cab3} title="Cabaña 3" textInfo={cab12Text} />
       <Custom
         images={Depto12}
         title="Departamento 1 y 2"
-        
         reverse={true}
         textInfo={deptoText}
       />
       <Custom
         images={Depto34}
         title="Departamento 3 y 4"
-       
         textInfo={deptoText}
       />
     </>
