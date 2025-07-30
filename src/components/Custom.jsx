@@ -69,7 +69,7 @@ const Custom = ({
           </p>
           <WhatsAppButton
             text="Consulta disponibilidad"
-            className="mt-20 mx-auto transform hover:scale-110  transition-all duration-300  text-l font-bold inline-flex items-center gap-2 justify-center px-2 py-1 text-[var(--verde-musgo)] bg-white rounded-lg md:px-2 md:py-3 md:text-l  md:ml-0  w-fit"
+            className="mt-20 mx-auto transform hover:scale-110  transition-all duration-300  text-l font-bold inline-flex items-center gap-2 justify-center px-2 py-1 text-[var(--verde-musgo)] bg-white rounded-lg md:text-l  md:ml-0  w-fit"
           />
         </div>
       </div>

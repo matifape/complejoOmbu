@@ -6,6 +6,7 @@ import Contact from "./components/Contact";
 import Cabs from "./components/Cabs";
 import Servicios from "./components/Servicios";
 import Maps from "./components/Maps";
+import Footer from "./components/Footer";
 
 
 function App() {
@@ -17,7 +18,7 @@ function App() {
       <Servicios />
       <About />
       <Maps/>
-    
+      <Footer />
     </>
   );
 }
