@@ -15,8 +15,8 @@ import {
 const Cabs = () => {
   return (
     <>
-    <div className="flex flex-col mt-20">
-        <h3 className="text-center mb-5 font-bold">Cabañas disponibles</h3>
+    <div className="flex flex-col mt-20" id="instalaciones">
+        <h3 className="text-center mb-5 font-bold ">Cabañas disponibles</h3>
 
         <div className="grid gap-5 grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 px-2">
             <PruebaCustom

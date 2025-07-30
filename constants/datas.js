@@ -66,7 +66,7 @@ const Cab1 = [
 const Cab2 = [
   {
     id: 1,
-    image: "/images/cab2/cab21.jpeg",
+    image: "/images/cab2/cab24.jpeg",
   },
   {
     id: 2,
@@ -77,8 +77,9 @@ const Cab2 = [
     image: "/images/cab2/cab23.jpeg",
   },
   {
-    id: 4,
-    image: "/images/cab2/cab24.jpeg",
+    id:4,
+    image: "/images/cab2/cab21.jpeg"
+    ,
   },
   {
     id: 5,

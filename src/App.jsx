@@ -15,7 +15,7 @@ function App() {
     <>
       <Header />
       <Hero />
-      <PruebaCab/>
+      <Cabs/>
       <Servicios />
       <About />
       <Maps/>
