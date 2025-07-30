@@ -84,6 +84,10 @@ const Cab2 = [
     id: 5,
     image: "/images/cab2/cab25.jpeg",
   },
+  {
+    id:6,
+    image: "/images/cab2/cab26.jpeg"
+  }
 ];
 
 const Cab3 = [
@@ -244,7 +248,7 @@ const cab12Text = `
 
 
 const  deptoText =  `
-- Capacidad: 6 personas \n
+- Capacidad: 4 personas \n
 - Heladera con freezer, TV por cable, ventiladores de pie \n
 - Vajilla completa \n
 - Parrilla \n

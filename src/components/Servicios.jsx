@@ -17,7 +17,7 @@ const Servicios = () => {
   const currentFoto = getFoto(0);
   return (
     <>
-      <div className="flex flex-col my-[8rem]  bg-[var(--crema)] backdrop-blur-sm rounded-xl p-6 shadow-lg border border-white/20 " id="Servicios">
+      <div className="flex flex-col my-[8rem]  bg-[#F6F4EF] backdrop-blur-sm rounded-xl p-6 shadow-lg border border-white/20 " id="Servicios">
         
         <div className="flex flex-col md:flex-row md:max-w-[90%] md:mx-auto md:items-center md:justify-arround">
           <div className="relative flex justify-center items-center h-screen ">
@@ -46,9 +46,9 @@ const Servicios = () => {
              <IoIosArrowForward />
             </button>
           </div>
-          <div className="md:max-w-[50%] md:flex-col md:mx-auto text-left md:justify-center md:items-center text-[var(--marron-madera)] ">
+          <div className="md:max-w-[50%] md:flex-col md:mx-auto text-left md:justify-center md:items-center text-[#4F3522] ">
             <h3 className="text-center md:mt-10  md:text-xl">La Cabañita</h3>
-            <p className="px-2 leading-loose text-xl whitespace-pre-line md:m-20">
+            <p className="px-2 leading-loose sm:text-xl   whitespace-pre-line md:m-20">
               {ServiciosText}
             </p>
           </div>
