@@ -2,7 +2,7 @@ const Hero = () => {
   return (
     <section id="mainContent" className="mt-20 md:mt-50">
       <div id="mainInfo" className="mt-10 flex flex-col">
-        <h1 className="text-center mt-10 md:mt-20 md:mb-5 md:text-2xl md:font-light">Complejo El Ombú - Departamentos para alquilar en San Clemente</h1>
+       
         <img className="block md:hidden" src="/images/cab.jpeg" alt="frente de cabaña" />
         <img
           className="hidden md:block md:w-full max-h-[800px] object-cover"
