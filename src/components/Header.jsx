@@ -50,9 +50,9 @@ function PruebaHeader() {
         </div>
 
         {/* CENTRO: Título */}
-        <h1 className="text-base md:text-3xl text-center absolute left-1/2 -translate-x-1/2 ">
+        <h2 className="text-base md:text-3xl text-center absolute left-1/2 -translate-x-1/2 ">
           Complejo El Ombu
-        </h1>
+        </h2>
 
         {/* DERECHA: Iconos en mobile, enlaces en escritorio */}
         <div className="flex items-center gap-4">
