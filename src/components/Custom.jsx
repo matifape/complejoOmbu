@@ -28,7 +28,7 @@ const Custom = ({
   return (
     <div
       id="instalaciones"
-      className="flex flex-col my-[8rem]  border border-gray-200 shadow-sm py-16 bg-[var(--verde-musgo)]"
+      className="flex flex-col my-[4rem]  border border-gray-200 shadow-sm py-16 bg-[var(--verde-musgo)]"
     >
       {title && (
         <div className="flex items-center mx-auto my-2  text-2xl md:text-l text-white font-normal md:mb-20 uppercase">

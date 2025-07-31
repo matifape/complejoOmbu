@@ -15,6 +15,7 @@ import {
 const Cabs = () => {
   return (
     <>
+    <h3 className="mb-0 mt-10 text-center font-bold text-xl md:font-medium md:mt-20 text-[var(--marron-oscuro)]">Alquileres disponibles</h3>
       <Custom
         images={Cab1}
         title="Cabaña 1"
