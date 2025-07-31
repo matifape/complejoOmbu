@@ -3,7 +3,7 @@ import { FaInstagram,FaFacebookF  } from "react-icons/fa";
 const Footer = () => {
   return (
     <div className='flex flex-col items-center gap-5 md:flex-row bg-[var(--verde-musgo)] md:justify-between md:px-10 md:pt-5 text-[var(--crema)] md:items-center'>
-      <div><img src="images/logo.png" alt="" className='w-30'/></div>
+      <div><img src="images/logo.png" alt="logo" className='w-30'/></div>
       <div className="flex flex-col">
         <p className="text-center">Visita nuestras redes</p>
         <div className="flex md:gap-5 gap-2 mt-2 md:items-center md:mt-5  justify-center">
