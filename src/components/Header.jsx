@@ -57,7 +57,7 @@ function PruebaHeader() {
         {/* DERECHA: Iconos en mobile, enlaces en escritorio */}
         <div className="flex items-center gap-4">
           {/* WhatsApp (solo en mobile) */}
-          <WhatsAppButton className="text-2xl block md:hidden" number= "5492252485824" />
+          <WhatsAppButton className="text-2xl block md:hidden" number= "5492257525638" />
 
           {/* Enlaces (solo en escritorio) */}
           <nav className="hidden md:flex gap-6 text-l ">
